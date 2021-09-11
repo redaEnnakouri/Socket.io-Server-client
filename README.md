@@ -1,9 +1,9 @@
 # Socket.io-Server-client
-the objective of this project is to create a Node Js server with a Python client
+the objective of this project is to send data real time ,we use socket.io(server, client) on this project
 
 # ServerJs
-###### NPM
- * first step install npm with command `npm install` <br>
+#### NPM
+ * first step install npm with command `npm install` 
  * seconde step go to folder server/js and  run the server with commande `node server.js` 
 
 # Server Py
