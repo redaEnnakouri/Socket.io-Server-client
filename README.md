@@ -2,7 +2,7 @@
 the objective of this project is to create a Node Js server with a Python client
 
 # ServerJs
-* NPM
+###### NPM
  * first step install npm with command `npm install` <br>
  * seconde step go to folder server/js and  run the server with commande `node server.js` 
 
