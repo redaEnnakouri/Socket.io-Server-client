@@ -15,5 +15,5 @@ The objective of this project is to send data real time ,we use socket.io(server
 Install py with commande `sudo apt-get -y install python3-pip` 
 
 # Client Python 
-Install package socket.io with commande `<pip install "python-socketio[client]"` 
+Install package socket.io with commande `pip install "python-socketio[client]"` 
   
